@@ -6,7 +6,7 @@ The project demonstrates component-based architecture, typed state management, a
 🚀 Demo
 
 Live demo: (add link if deployed)
-Example: https://your-demo-link.com
+Example: https://bo-ov.github.io/StoreWebsite/
 
 ✨ Features
 
