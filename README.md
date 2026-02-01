@@ -1,4 +1,37 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+🛒 Electronics Store — React + TypeScript
+
+Electronics Store is a web application built with React and TypeScript.
+The project demonstrates component-based architecture, typed state management, and basic e-commerce functionality.
+
+🚀 Demo
+
+Live demo: (add link if deployed)
+Example: https://your-demo-link.com
+
+✨ Features
+
+Product catalog
+
+Search and filtering
+
+Shopping cart
+
+Quantity control
+
+Total price calculation
+
+Responsive design
+
+TypeScript typing
+
+🧑‍💻 Technologies
+
+React
+
+TypeScript
+
+SCSS / CSS Modules
+
+Vite / Create React App
+
+Git
